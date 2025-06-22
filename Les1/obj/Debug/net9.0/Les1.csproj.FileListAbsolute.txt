@@ -12,3 +12,4 @@
 /Users/lukinlukina/Desktop/S25-Csharp/Les1/obj/Debug/net9.0/Les1.pdb
 /Users/lukinlukina/Desktop/S25-Csharp/Les1/obj/Debug/net9.0/Les1.genruntimeconfig.cache
 /Users/lukinlukina/Desktop/S25-Csharp/Les1/obj/Debug/net9.0/ref/Les1.dll
+/Users/lukinlukina/Desktop/S25-Csharp/Les1/obj/Debug/net9.0/Les1.sourcelink.json
