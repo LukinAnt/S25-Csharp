@@ -11,7 +11,7 @@ Console.WriteLine(d);
 Console.WriteLine(c);
 Console.WriteLine(b);
 */
-
+/*
 int i1 = 5;
 int i2 = 6;
 int sum = i1 + i2;
@@ -39,4 +39,17 @@ int quotient = i1 / i2;
 d1 = 6;
 double quotient2 = i1 / d1;
  Console.WriteLine(quotient2);
- 
+ */
+
+
+int a = 5;
+int b = 7;
+
+if (a > b)
+{
+    Console.WriteLine(a);
+}
+else
+{
+    Console.WriteLine(b);
+}
