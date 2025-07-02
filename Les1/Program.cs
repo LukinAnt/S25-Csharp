@@ -54,7 +54,7 @@ else
     Console.WriteLine(b);
 }
 */
-
+/*
 int a = 5;
 int b = 7;
 int c = 9;
@@ -68,3 +68,9 @@ if (c > max) { max = c; }
 if (d > max) { max = d; }
 if (e > max) { max = e; }
 Console.WriteLine(max);
+*/
+
+int n = 100;
+int i = 1;
+
+while (i <= n) { Console.Write(i); Console.Write(' '); i = i + 1; }
