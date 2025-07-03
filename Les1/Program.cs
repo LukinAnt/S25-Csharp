@@ -77,9 +77,20 @@ while (i <= n) { Console.Write(i); Console.Write(' '); i = i + 1; }
 */
 
 //дополнительно
-
+/*
 Console.WriteLine("введите ваше имя: ");
 string username = Console.ReadLine();
 Console.WriteLine("Привет, ");
 Console.WriteLine(username);
+*/
+/*
+int numberA = 70;
+int numberB = 5;
+//Console.WriteLine(numberA + numberB);
+int result = numberA + numberB;
+Console.WriteLine(result);
+*/
 
+double numberA = 12;
+double numberB = 5;
+Console.WriteLine(numberA / numberB);
