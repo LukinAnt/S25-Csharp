@@ -69,8 +69,17 @@ if (d > max) { max = d; }
 if (e > max) { max = e; }
 Console.WriteLine(max);
 */
-
+/*
 int n = 100;
 int i = 1;
 
 while (i <= n) { Console.Write(i); Console.Write(' '); i = i + 1; }
+*/
+
+//дополнительно
+
+Console.WriteLine("введите ваше имя: ");
+string username = Console.ReadLine();
+Console.WriteLine("Привет, ");
+Console.WriteLine(username);
+
